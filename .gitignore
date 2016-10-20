@@ -89,6 +89,7 @@ ENV/
 .ropeproject
 working/aqs/*
 working/cmaq/*
+working/camx/*
 working/icartt/*
 working/figs/*
 working/emis/*
