@@ -87,3 +87,12 @@ ENV/
 
 # Rope project settings
 .ropeproject
+working/aqs/*
+working/cmaq/*
+working/icartt/*
+working/figs/*
+working/emis/*
+aqs.nc
+cmaq_aqs_extract.nc
+cmaq.nc
+dc3.nc
