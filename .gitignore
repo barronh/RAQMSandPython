@@ -87,6 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+working/test.py
 working/aqs/*
 working/cmaq/*
 working/camx/*
@@ -99,3 +100,6 @@ cmaq.nc
 dc3.nc
 emis_cmaq_new.nc
 emis_camx_new.nc
+working/camx_point_2x.bin
+
+working/camx_point_new.bin
